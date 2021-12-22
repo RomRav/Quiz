@@ -1,0 +1,8 @@
+C:\romain\LaManu\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\romain\LaManu\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\romain\LaManu\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\romain\LaManu\Quiz\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\romain\LaManu\Quiz\Quiz\obj\Debug\Quiz.csproj.SuggestedBindingRedirects.cache
+C:\romain\LaManu\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\romain\LaManu\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\romain\LaManu\Quiz\Quiz\obj\Debug\Quiz.pdb
