@@ -10,7 +10,7 @@ namespace Quiz
     internal class Question
     {
         public string question { get; set; }
-        public Dictionary<string, bool> choice {get;set;}
+        public Dictionary<string, bool> choices {get;set;}
 
     }
 }

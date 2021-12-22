@@ -20,6 +20,7 @@ namespace Quiz
         public void IncrementsScore()
         {
             point++;
+            Console.WriteLine($"score : {point}");
         }
     }
 
