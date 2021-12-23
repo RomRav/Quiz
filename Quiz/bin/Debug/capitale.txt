@@ -1,0 +1,191 @@
+1,Tokyo,Japon,33 413 000
+2,Mexico,Mexique,22 414 319
+3,S�oul,Cor�e du Sud,22 173 711
+4,Jakarta,Indon�sie,18 206 700
+5,New Delhi,Inde,17 367 300
+6,Le Caire,�gypte,16 244 700
+7,Moscou,Russie,14 740 000
+8,Buenos Aires,Argentine,14 235 106
+9,Manille,Philippines,14 140 000
+10,Londres,Royaume-Uni,13 229 219
+12,Dh�k�,Bangladesh,11 918 442
+11,Paris,France,12 223 100
+13,P�kin,Chine,20 690 000
+14,Bangkok,Tha�lande,9 308 924
+15,Lima,P�rou,8 270 000
+16,Lisbonne,Portugal,7 450 000
+17,T�h�ran,Iran,6 758 845
+18,Kinshasa,R�publique d�mocratique du Congo,6 500 000
+19,Santiago,Chili,6 000 000
+20,Madrid,Espagne,5 500 000
+21,Naypyidaw,Birmanie,5 500 000
+22,Damas,Syrie,5 000 000
+23,Singapour,Singapour,4 240 000
+24,Ankara,Turquie,4 000 000
+25,Luanda,Angola,4 000 000
+26,Bagdad,Irak,3 800 000
+27,Riyad,Arabie saoudite,3 700 000
+28,Caracas,Venezuela,3 600 000
+29,Ath�nes,Gr�ce,3 566 060
+30,Berlin,Allemagne,3 400 000
+31,Accra,Ghana,3 000 000
+32,Hano�,Vi�t Nam,2 842 000
+33,Kiev,Ukraine,2 800 000
+34,Rome,Italie,2 800 000
+35,Addis-Abeba,�thiopie,2 600 000
+36,Guatemala,Guatemala,2 500 000
+37,Pyongyang,Cor�e du Nord,2 500 000
+38,Tachkent,Ouzb�kistan,2 500 000
+39,Saint-Domingue,R�publique dominicaine,2 400 000
+40,Brasilia,Br�sil,2 300 000
+41,Nairobi,Kenya,2 100 000
+42,San Jos�,Costa Rica,2 100 000
+43,Tunis,Tunisie,2 083 000
+44,Alger,Alg�rie,2 030 000
+45,Bucarest,Roumanie,2 020 000
+46,Budapest,Hongrie,2 000 000
+47,Conakry,Guin�e,2 000 000
+48,La Havane,Cuba,2 000 000
+49,Port-au-Prince,Ha�ti,2 000 000
+50,Dakar,S�n�gal,1 999 000
+51,Amman,Jordanie,1 900 000
+52,Bogota,Colombie,1 900 000
+53,Stockholm,Su�de,1 800 000
+54,Kaboul,Afghanistan,1 780 000
+55,Bakou,Azerba�djan,1 727 200
+56,San Salvador,Salvador,1 700 000
+57,Minsk,Bi�lorussie,1 699 000
+58,Varsovie,Pologne,1 690 821
+59,Vienne,Autriche,1 600 000
+60,Astana,Kazakhstan,1 560 000
+61,Harare,Zimbabwe,1 500 000
+62,Katmandou,N�pal,1 500 000
+63,Khartoum,Soudan,1 400 000
+64,Montevideo,Uruguay,1 400 000
+65,Quito,�quateur,1 400 000
+66,Tananarive,Madagascar,1 300 000
+67,Colombo,Sri Lanka,1 300 000
+68,Kuala Lumpur,Malaisie,1 297 526
+69,Erevan,Arm�nie,1 248 700
+70,Tripoli,Libye,1 223 300
+71,Phnom Penh,Cambodge,1 200 000
+72,Sofia et bruxelles,Bulgarie et belgique,1 200 000
+73,Belgrade,Serbie,1 168 454
+74,Mogadiscio,Somalie,1 162 000
+75,Prague,R�publique tch�que,1 160 000
+76,Tegucigalpa,Honduras,1 160 000
+77,Yaound�,Cameroun,1 150 000
+78,Maputo,Mozambique,1 111 641
+79,Tbilissi,G�orgie,1 100 000
+80,Pretoria,Afrique du Sud,1 080 000
+81,Kampala,Ouganda,1 078 948
+82,Ottawa,Canada,1 063 664
+83,Abou Dabi,�mirats arabes unis,1 000 000
+84,Bamako,Mali,1 000 000
+85,Beyrouth,Liban,1 000 000
+86,Lusaka,Zambie,1 000 000
+87,Managua,Nicaragua,1 000 000
+88,Ndjamena,Tchad,1 000 000
+89,Ouagadougou,Burkina Faso,1 000 000
+90,Sanaa,Y�men,954 400
+91,Mascate,Oman,887 000
+92,Lom�,Togo,850 000
+93,Panama,Panama,827 828
+94,Brazzaville,R�publique du Congo,800 000
+95,Islamabad,Pakistan,800 000
+96,Kigali,Rwanda,800 000
+97,Zagreb,Croatie,779 145
+98,Jerusalem,Isra�l,760 000
+99,Monrovia,Lib�ria,750 000
+100,R?ga,Lettonie,739 232
+101,Amsterdam,Pays-Bas,739 104
+102,Niamey,Niger,700 000
+103,Tirana,Albanie,700 000
+104,Oulan-Bator,Mongolie,691 000
+105,Bangui,R�publique centrafricaine,690 000
+106,Libreville,Gabon,673 995
+107,Chi?in?u,Moldavie,655 000
+108,Rabat,Maroc,650 000
+109,Vientiane,Laos,633 000
+110,Kingston,Jama�que,628 000
+111,Bichkek,Kirghizistan,619 000
+112,Achgabat,Turkm�nistan,605 000
+113,Skopje,Mac�doine,600 000
+114,Washington,�tats-Unis,572 059
+115,Helsinki,Finlande,560 500
+116,Nouakchott,Mauritanie,559 000
+117,Vilnius,Lituanie,553 373
+118,Freetown,Sierra Leone,550 000
+119,Asuncion,Paraguay,539 000
+120,Oslo,Norv�ge,521 886
+121,Douchanb�,Tadjikistan,513 000
+122,Copenhague,Danemark,500 000
+123,Dublin,Irlande,495 101
+124,Asmara,�rythr�e,435 000
+125,Bratislava,Slovaquie,428 672
+126,Kowe�t,Kowe�t,413 170
+127,Lilongwe,Malawi,400 000
+128,Tallinn,Estonie,397 150
+129,Sarajevo,Bosnie-Herz�govine,387 876
+130,Djibouti,Djibouti,383 000
+131,Doha,Qatar,370 000
+132,Wellington,Nouvelle-Z�lande,363 400
+133,Canberra,Australie,323 000
+134,Port Moresby,Papouasie-Nouvelle-Guin�e,320 000
+135,Bujumbura,Burundi,300 000
+136,Port-d'Espagne,Trinit�-et-Tobago,300 000
+137,Porto-Novo,B�nin,295 000
+138,Sucre (Bolivie),Bolivie,292 080
+139,Bissau,Guin�e-Bissau,274 000
+140,Ljubljana,Slov�nie,265 881
+141,Georgetown,Guyana,250 000
+142,Paramaribo,Suriname,243 556
+143,Windhoek,Namibie,233 529
+144,Nassau,Bahamas,214 000
+145,Nicosie,Chypre,197 800
+146,Dodoma,Tanzanie,189 000
+147,Gaborone,Botswana,186 007
+148,Maseru,Lesotho,173 700
+149,Suva,Fidji,167 000
+151,Manama,Bahre�n,148 000
+152,Port-Louis,Maurice,146 319
+153,Podgorica,Mont�n�gro,139 500
+154,Berne,Suisse,123 000
+155,Reykjavik,Islande,113 288
+156,Yamoussoukro,C�te d'Ivoire,110 000
+157,Praia,Cap-Vert,106 052
+158,Abuja,Nigeria,100 000
+159,Bandar Seri Begawan,Brunei,85 000
+160,Luxembourg,Luxembourg,77 300
+161,Mal�,Maldives,70 000
+162,Castries,Sainte-Lucie,67 000
+163,Dili,Timor oriental,65 000
+164,Moroni,Comores,61 000
+165,Mbabane,Swaziland,60 000
+166,Thimphou,Bhoutan,55 000
+167,Malabo,Guin�e �quatoriale,47 500
+168,S�o Tom�,Sao Tom�-et-Principe,43 420
+169,Banjul,Gambie,34 828
+170,Apia,Samoa,34 000
+171,Nuku'alofa,Tonga,34 000
+172,Saint-Georges,Grenade,33 734
+173,Monaco,Monaco,32 020
+174,Honiara,Salomon,30 000
+175,Port-Vila,Vanuatu,30 000
+176,Saint John's,Antigua-et-Barbuda,30 000
+177,Tarawa,Kiribati,30 000
+178,Victoria,Seychelles,24 701
+179,Delap-Uliga-Darrit,Marshall,23 676
+180,Andorre-la-Vieille,Andorre,20 800
+181,Kingstown,Saint-Vincent-et-les Grenadines,16 175
+182,Roseau,Dominique,15 853
+183,Basseterre,Saint-Christophe-et-Ni�v�s,15 000
+184,Palikir,Micron�sie,8 600
+185,Belmopan,Belize,8 305
+186,La Valette,Malte,7 100
+187,Bridgetown,Barbade,6 070
+188,Vaduz,Liechtenstein,5 203
+189,Funafuti,Tuvalu,4 590
+190,Ville de Saint-Marin,Saint-Marin,4 482
+191,Cit� du Vatican,Saint-Si�ge,790
+192,Melekeok,Palaos,560

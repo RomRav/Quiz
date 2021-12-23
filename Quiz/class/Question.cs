@@ -11,6 +11,5 @@ namespace Quiz
     {
         public string question { get; set; }
         public Dictionary<string, bool> choices {get;set;}
-
     }
 }

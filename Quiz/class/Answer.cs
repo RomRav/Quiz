@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Quiz
 {
-    internal class Answer
-{
-}
+        internal class Answer
+    {
+        public string answer { get; set; }
+        public string question { get; set; }
+        public string correctAnswer { get; set; }
+    }
 }
